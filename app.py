@@ -8,7 +8,7 @@ students = [
     {"name": "Rahul", "feedback": 4},
     {"name": "Rohit", "feedback": 3},
     {"name": "Rohan", "feedback": 2},
-    {"name": "Reshma", "feedback": 2}
+
 ]
 
 # Default route
